@@ -1,0 +1,47 @@
+body{
+    background-image: url("kava.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    
+}
+
+.head-icon{
+    display:flex;
+    align-items: baseline;
+    font-size: larger;
+    }
+    #intro{
+        font-size:xx-large;
+       
+    }
+    .head-icon img{
+        margin-right:5px;
+        padding-right: 1px;
+    }
+    .hotel{
+        position:absolute;
+        top:31%;
+        border-radius: 20px;
+        left:10%;
+        height:500px;
+        width:500px;
+        color:blanchedalmond;
+        font-weight: 900;
+        font-size: 130%;
+
+    }
+    #jina{
+        padding: 6px 9px;
+        border-radius: 60px;
+        width:70%;
+        height:5%s;
+    }
+    #personal{
+        margin-left: 10px;
+    }
+    .stripline{
+        position: absolute;
+        left:70%;
+    }
